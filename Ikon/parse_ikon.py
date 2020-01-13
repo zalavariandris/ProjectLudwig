@@ -53,7 +53,7 @@ def parse_page(page):
         """ No results! """
         return []
 
-    """ Resukts found """
+    """ Results found """
     # first element is 
     data = []
     for elem in elements[1::]:
@@ -68,10 +68,10 @@ def parse_page(page):
 def write_excel(df, filepath):
     ## Export to excel
     df2 = df.copy()
-    # format artist list to string. Artists seperated with ';'
-    for i in range(len(df)):
-        df2.loc[i,'artists'] = "; ".join( [a.strip() for a in df.loc[i, 'artists'] if a.strip()] )
-    df2.to_excel(filepath)
+    for i in range(len(df['artists'])):
+        # convert artists list to semicolon seperated string
+        df2.loc[i, 'artists'] = "; ".join([a.replace(";", ",") for a in df.loc[i, 'artists']])        
+    df2.to_excel("ikon.xlsx")
     
 def write_sql(df, filepath):
     raise NotImplementedError
@@ -93,10 +93,9 @@ if __name__=="__main__":
     df = pd.DataFrame(data)
     for i in range(len(df['artists'])):
         # clean artists array from falsy values
-        df['artists'][i]= [a.strip() for a in df['artists'][i] if a.strip()]
-        
-
+        df.loc[i, 'artists']= [a.strip() for a in df.loc[i, 'artists'] if a.strip()]
+    
     write_excel(df, "ikon.xlsx")
-    write_sql(df, "ikon.sql")
+    # write_sql(df, "ikon.sql")
     
     
