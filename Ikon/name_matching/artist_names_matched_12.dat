@@ -1,0 +1,909 @@
+name1	name2	similarity
+Dr. Ungváry Krisztián	Jerger Krisztina	65
+Dr. Ungváry Krisztián	Hunya Krisztina	61
+Fotográfusok	fotográfus	82
+*Fodor János	Tornyai János	64
+Agata Królak	Agata Dudek	61
+Kozma György	Kepes György	67
+Kozma György	Kemény György	72
+Kozma György	Varga György	67
+Kozma György	Petz György	70
+Kozma György	Jerovetz György	67
+A Magyar Garfikáért Alapítány	A Magyar Látvány-	61
+Christian Kobi	Christian Jankowski	73
+Christian Kobi	Christian SKJØDT	73
+Bozsik Péter	Mátyási Péter	64
+Bozsik Péter	Szőke Péter	70
+Bozsik Péter	Ducsai Péter	67
+Bozsik Péter	Nádas Péter	61
+Bozsik Péter	Rózsa Péter	70
+Bozsik Péter	Andráskó Péter	62
+Bozsik Péter	Korniss Péter	64
+Bozsik Péter	Szűcs Péter	70
+Bozsik Péter	Szörényi Péter	62
+Bozsik Péter	Forgács Péter	64
+Markó Béla	Major Borbála	61
+Mátyási Péter	Bozsik Péter	64
+Mátyási Péter	Ducsai Péter	64
+Mátyási Péter	Nádas Péter	67
+Mátyási Péter	dr. Rostás Péter	62
+Mátyási Péter	Forgács Péter	62
+Christian Jankowski	Christian Kobi	73
+Christian Jankowski	Christian SKJØDT	63
+Sipos Endre	Sinkovics Ede	67
+Sipos Endre	Gevicser Endre	64
+Sipos Endre	Lábass Endre	61
+Ilona Keserü Ilona	Keserű Ilona	73
+Hermann Ildi	Hermann Gábor	64
+Hermann Ildi	Hermann Zsófia	69
+Rieder Gábor	Hermann Gábor	64
+Rajk László	BOD László	67
+Rajk László	Bauer László	70
+Rajk László	Valuska László	72
+Rajk László	Tolcsvay László	62
+Szigeti Tamás festő	Szőnyei Tamás	62
+Mengyán András	Bernát András	74
+Mengyán András	Bán András	75
+Mengyán András	Kerékgyártó András	69
+Mengyán András	Márkus András	67
+Mengyán András	Jeles András	62
+Miklósi Dénes	Holesch Dénes	62
+Dezső Csaba	Orosz Csaba	64
+Dezső Csaba	Fürjesi Csaba	67
+Harasztÿ István	Drabik István	64
+Harasztÿ István	Nagy István	62
+Harasztÿ István	Halas István	81
+LÁNG Eszter	Tóth Eszter	64
+LÁNG Eszter	Nordin Eszter	67
+LÁNG Eszter	Deli Eszter	64
+Gueth Péter	Szőke Péter	64
+Gueth Péter	Ducsai Péter	61
+Gueth Péter	GALLOV Péter	61
+Kerekasztal-beszélgetés Birkás Ákossal	Kerekasztalbeszélgetés és könyvbemutató	70
+Farkash Róbert	Kristó Róbert	67
+Cseh Lili	Cseh Krisztina	61
+Cseh Lili	Boros Lili	63
+Szegedy-Maszák Zoltán	Szarka Zoltán	65
+Szegedy-Maszák Zoltán	Ágas Zoltán	62
+Szegedy-Maszák Zoltán	Somhegyi Zoltán	61
+Cseh Krisztina	Cseh Lili	61
+Cseh Krisztina	Dékei Kriszta	67
+Cseh Krisztina	Tyukodi Krisztina	65
+Cseh Krisztina	Jerger Krisztina	73
+Cseh Krisztina	Bódis Kriszta	67
+Cseh Krisztina	Szalay Krisztina	67
+Cseh Krisztina	Volmuth Krisztián	65
+Cseh Krisztina	Hunya Krisztina	69
+Cseh Krisztina	Mag Kriszti	64
+Péter Bencze	Ódor Bence	64
+Tóth Eszter	LÁNG Eszter	64
+Tóth Eszter	Schall Eszter	67
+Tóth Eszter	Deli Eszter	64
+Balázs	Arató Balázs	67
+Balázs	Csizik Balázs	63
+Balázs	Lévai Balázs	67
+Balázs	Juhász Balázs	63
+Balázs	Imola Balázs	67
+Balázs	Balázs Kata	71
+Balázs	Balázs Kitti	67
+Fischer Éva	Richter Sára	61
+Gerőcs Péter író	Forgács Péter	62
+Szabó ÍÁdám	Szabó Imola	64
+Pelcz Dániel	Szántó Dániel	64
+Szalay Péter	Szőke Péter	70
+Szalay Péter	Nádas Péter	61
+Szalay Péter	Rózsa Péter	70
+Szalay Péter	Szűcs Péter	70
+Szalay Péter	Szörényi Péter	69
+Bernát András	Mengyán András	74
+Bernát András	Bödecs András	69
+Bernát András	Bán András	78
+Bernát András	Kroó András	67
+Bernát András	Kerékgyártó András	71
+Bernát András	Horváth Csaba András	61
+Bernát András	Márkus András	62
+Bernát András	Jeles András	64
+Bernát András	Ernszt András	77
+Arató Balázs	Balázs	67
+Arató Balázs	Lévai Balázs	67
+Arató Balázs	Imola Balázs	67
+Szarka Zoltán	Szegedy-Maszák Zoltán	65
+Szarka Zoltán	Ágas Zoltán	67
+Szarka Zoltán	Barcza Zsolt	64
+Szarka Zoltán	Banner Zoltán	69
+Szarka Zoltán	Balla Zoltán	72
+Kepes György	Kozma György	67
+Kepes György	Kemény György	72
+Kepes György	Petz György	70
+Kepes György	Jerovetz György	67
+Szántó Dániel	Pelcz Dániel	64
+Szántó Dániel	Szántói Lilla	69
+Anna Ciabach	Aknay Csaba	70
+Boros Luca	Boros Lili	70
+L.SIMON László	BOD László	67
+Csizik Balázs	Balázs	63
+Csizik Balázs	Lévai Balázs	64
+Csizik Balázs	Juhász Balázs	69
+Kovács Lehel	Kovách Gergely	69
+Kovács Lehel	Kovács Katalin	62
+Kovács Lehel	Kovács Johanna	62
+BARTHA Máté	BARABÁS Márton	64
+Körösy Attila	Tordai Attila	62
+Körösy Attila	Kleb Attila	67
+Körösy Attila	Szűcs Attila	64
+Körösy Attila	Király Attila	77
+Körösy Attila	Rékasi Attila	62
+A Magyar Látvány-	A Magyar Garfikáért Alapítány	61
+Mayer Kitti	Balázs Kitti	61
+Mayer Kitti	Mag Kriszti	64
+Lévai Balázs	Balázs	67
+Lévai Balázs	Arató Balázs	67
+Lévai Balázs	Csizik Balázs	64
+Lévai Balázs	Imola Balázs	67
+Hermann Gábor	Hermann Ildi	64
+Hermann Gábor	Rieder Gábor	64
+Gajárszki Gergely	Matos Gergely	67
+Ruzsa Dénes	Rózsa Péter	64
+Jay TAN	Nagy T	62
+Vajda Júlia	Kaposi Júlia	61
+Drégely Imre fotográfus	Nagy Zopán fotográfus	64
+Drégely Imre fotográfus	fotográfus	61
+Grászli Bernadett	Dankó Bernadett	62
+Grászli Bernadett	Jobbágy Bernadett	65
+BAK Imre	Buczkó Imre	63
+Szabó Gyula	Hadik Gyula	64
+Szabó Gyula	Szabó Imola	73
+Szabó Gyula	Dr. Szabó Lilla	62
+Tornyai János	*Fodor János	64
+Dr. Radnai Márton	Radics Márton	73
+Dr. Radnai Márton	Gresa Márton	62
+Büki Zsuzsanna	Aranyosi Zsuzsánna	62
+Büki Zsuzsanna	Kóródi Zsuzsanna	73
+Büki Zsuzsanna	Bakonyi Zsuzsanna	84
+Büki Zsuzsanna	LŐRINCZ Zsuzsanna	65
+Büki Zsuzsanna	Szablyár Zsuzsanna	62
+Büki Zsuzsanna	Kalas Zsuzsanna	69
+Büki Zsuzsanna	Udvarhelyi Zsuzsanna	65
+Büki Zsuzsanna	Kertész Zsuzsanna	65
+Juhász Balázs	Balázs	63
+Juhász Balázs	Csizik Balázs	69
+Róka Enikő	Balla Enikő	67
+Bérczi Zsófia	Imre Zsófia	67
+Dékei Kriszta	Cseh Krisztina	67
+Dékei Kriszta	Tyukodi Krisztina	67
+Dékei Kriszta	Jerger Krisztina	62
+Dékei Kriszta	Bódis Kriszta	69
+Nádassy Mátyás	Korányi Mátyás	64
+Deák Nóra	Deák Nóra  ICA-D	72
+Zsámbéki Gábor	Zoboki Gábor	77
+Schall Eszter	Tóth Eszter	67
+Schall Eszter	MEZŐSI Eszter	62
+Schall Eszter	Bolgár Eszter	62
+Schall Eszter	Deli Eszter	67
+Tyukodi Krisztina	Cseh Krisztina	65
+Tyukodi Krisztina	Dékei Kriszta	67
+Tyukodi Krisztina	Jerger Krisztina	61
+Tyukodi Krisztina	Bódis Kriszta	67
+Tyukodi Krisztina	Szalay Krisztina	67
+Tyukodi Krisztina	Sándor Krisztian	61
+Tyukodi Krisztina	Hunya Krisztina	69
+Tordai Attila	Körösy Attila	62
+Tordai Attila	Haid Attila	75
+Tordai Attila	Király Attila	62
+Tordai Attila	Rékasi Attila	69
+Huth Gergely	Kovách Gergely	69
+Huth Gergely	Matos Gergely	72
+Dobány Sándor	Rácmolnár Sándor	62
+Dobány Sándor	Dulai Sándor	64
+Szőke Péter	Bozsik Péter	70
+Szőke Péter	Gueth Péter	64
+Szőke Péter	Szalay Péter	70
+Szőke Péter	Sinkovits Péter	62
+Szőke Péter	Rózsa Péter	64
+Szőke Péter	Szűcs Péter	73
+Szőke Péter	Szörényi Péter	64
+Szőke Péter	HALÁSZ Péter	61
+Aknai Tamás	Szőnyei Tamás	67
+Aknai Tamás	Gaál Tamás	67
+Aknai Tamás	Petrik Tamás	61
+Kemtty János	Kalmár János	67
+Kleb Attila	Körösy Attila	67
+Kleb Attila	Haid Attila	64
+Kleb Attila	Szűcs Attila	61
+Kleb Attila	Király Attila	75
+Major Borbála	Markó Béla	61
+NYIRI Barbara	Dudás Barbara	62
+Váradi Zita  Magyarország	Magyarország	65
+Tillmann József	Tillmann J.A.	71
+Tillmann József	Tillmann J.A.	71
+Zhenia Bozukova	Zsenia Bozukova	93
+Aknai Tamás	Szőnyei Tamás	67
+Aknai Tamás	Gaál Tamás	67
+Aknai Tamás	Petrik Tamás	61
+BOD László	Rajk László	67
+BOD László	L.SIMON László	67
+BOD László	Bauer László	73
+Alvar Aalto	Elina Aalto	73
+Ducsai Péter	Bozsik Péter	67
+Ducsai Péter	Mátyási Péter	64
+Ducsai Péter	Gueth Péter	61
+Ducsai Péter	Nádas Péter	61
+Ducsai Péter	Rózsa Péter	70
+Ducsai Péter	Szűcs Péter	70
+Ducsai Péter	Forgács Péter	64
+Dr. Somorjai-Kiss Tibor	Prof. Somorjai-Kiss Tibor	92
+Filipa César	Filp Csaba	73
+Benes József	Pecsenke József	74
+Benes József	Bíró József	70
+Benes József	Csató József	67
+Németh Anna	Németh Zsanett	64
+Aranyosi Zsuzsánna	Büki Zsuzsanna	62
+Aranyosi Zsuzsánna	Kóródi Zsuzsanna	65
+Aranyosi Zsuzsánna	Bakonyi Zsuzsanna	74
+Aranyosi Zsuzsánna	Szablyár Zsuzsanna	61
+Aranyosi Zsuzsánna	Kalas Zsuzsanna	67
+Aranyosi Zsuzsánna	Udvarhelyi Zsuzsanna	63
+Aranyosi Zsuzsánna	Kertész Zsuzsanna	63
+Halmi Zsolt	Barcza Zsolt	61
+Halmi Zsolt	Balla Zoltán	61
+Mészáros László	Dr. Kocsis László	62
+Mészáros László	Oláh Mátyás László	61
+Kóródi Zsuzsanna	Büki Zsuzsanna	73
+Kóródi Zsuzsanna	Aranyosi Zsuzsánna	65
+Kóródi Zsuzsanna	Bakonyi Zsuzsanna	67
+Kóródi Zsuzsanna	LŐRINCZ Zsuzsanna	61
+Kóródi Zsuzsanna	Szablyár Zsuzsanna	65
+Kóródi Zsuzsanna	Kalas Zsuzsanna	71
+Kóródi Zsuzsanna	Udvarhelyi Zsuzsanna	67
+Kóródi Zsuzsanna	Kertész Zsuzsanna	73
+Olajos György Munkácsy-díjas	Bukta Imre Munkácsy-díjas	68
+GALLOV Péter	Gueth Péter	61
+GALLOV Péter	HALÁSZ Péter	67
+Bödecs András	Bernát András	69
+Bödecs András	Bán András	70
+Bödecs András	Márkus András	62
+Bödecs András	Jeles András	72
+Bödecs András	Ernszt András	62
+Aknay Csaba	Anna Ciabach	70
+Aknay Csaba	Kis Róka Csaba	64
+Pásztor Béla	Kádár Béla	64
+Christian SKJØDT	Christian Kobi	73
+Christian SKJØDT	Christian Jankowski	63
+Haid Attila	Tordai Attila	75
+Haid Attila	Kleb Attila	64
+Haid Attila	Szűcs Attila	61
+Haid Attila	Király Attila	67
+Haid Attila	Rékasi Attila	75
+Nádas Péter	Bozsik Péter	61
+Nádas Péter	Mátyási Péter	67
+Nádas Péter	Szalay Péter	61
+Nádas Péter	Ducsai Péter	61
+Nádas Péter	Rózsa Péter	64
+Nádas Péter	Andráskó Péter	64
+Nádas Péter	Szűcs Péter	64
+Nádas Péter	Forgács Péter	67
+Nádas Péter	Závada Péter költő	62
+3csoport	Kert csoport	70
+3csoport	PR Csoport	67
+Bakonyi Zsuzsanna	Büki Zsuzsanna	84
+Bakonyi Zsuzsanna	Aranyosi Zsuzsánna	74
+Bakonyi Zsuzsanna	Kóródi Zsuzsanna	67
+Bakonyi Zsuzsanna	Szablyár Zsuzsanna	69
+Bakonyi Zsuzsanna	Kalas Zsuzsanna	69
+Bakonyi Zsuzsanna	Udvarhelyi Zsuzsanna	70
+Pusztai Gábor	Csuday Gábor	64
+Pusztai Gábor	Hushegyi Gábor	67
+Pusztai Gábor	Pusztai Pál	75
+Jerger Krisztina	Dr. Ungváry Krisztián	65
+Jerger Krisztina	Cseh Krisztina	73
+Jerger Krisztina	Dékei Kriszta	62
+Jerger Krisztina	Tyukodi Krisztina	61
+Jerger Krisztina	Szalay Krisztina	62
+Jerger Krisztina	Sándor Krisztian	62
+Jerger Krisztina	Hunya Krisztina	65
+Jerger Krisztina	Mag Kriszti	67
+Kemény György	Kozma György	72
+Kemény György	Kepes György	72
+Kemény György	Várkonyi György	64
+Kemény György	Petz György	67
+Nagy Judit	Gál Judit	63
+Nagy Judit	Jóry Judit	70
+Nagy Judit	Nagy T	62
+Mélyi József műkritikus	Mélyi József	69
+Sinkovits Péter	Szőke Péter	62
+Sinkovits Péter	Sinkovics Ede	71
+Sinkovits Péter	Korniss Péter	64
+Sinkovits Péter	Szűcs Péter	62
+Sinkovits Péter	Szörényi Péter	62
+Drabik István	Harasztÿ István	64
+Drabik István	Derenycsényi István	62
+Drabik István	Nagy István	67
+Drabik István	Halas István	64
+Nagy Zopán fotográfus	Drégely Imre fotográfus	64
+Nagy Zopán fotográfus	fotográfus	65
+Pertics Flóra	Vági Flóra	61
+Tettamanti Zsófia	Hermann Zsófia	71
+LŐRINCZ Zsuzsanna	Büki Zsuzsanna	65
+LŐRINCZ Zsuzsanna	Kóródi Zsuzsanna	61
+LŐRINCZ Zsuzsanna	Kalas Zsuzsanna	62
+Kudelich Lajos	Kemecsi Lajos	67
+MEZŐSI Eszter	Schall Eszter	62
+Fábián Noémi	Forián szabó Noémi	67
+Fábián Noémi	Fórián Szabó Noémi	67
+Pór Bertalan	Berta Julianna	62
+Drozdik Orsolya	Urbán Orsolya	64
+Király Erzsébet	Erzsébet	70
+Sárkány Mihály	Borbély Mihály	64
+Kovách Gergely	Kovács Lehel	69
+Kovách Gergely	Huth Gergely	69
+Kovách Gergely	Matos Gergely	67
+Szablyár Zsuzsanna	Büki Zsuzsanna	62
+Szablyár Zsuzsanna	Aranyosi Zsuzsánna	61
+Szablyár Zsuzsanna	Kóródi Zsuzsanna	65
+Szablyár Zsuzsanna	Bakonyi Zsuzsanna	69
+Szablyár Zsuzsanna	Kalas Zsuzsanna	73
+Szablyár Zsuzsanna	Udvarhelyi Zsuzsanna	68
+Szablyár Zsuzsanna	Kertész Zsuzsanna	63
+Szabó Imola Julianna	Szabó Imola	71
+Tillmann J.A.	Tillmann József	71
+VOJNICH Erzsébet	Erzsébet	67
+Bán András	Mengyán András	75
+Bán András	Bernát András	78
+Bán András	Bödecs András	70
+Bán András	Kroó András	67
+Bán András	PETŐCZ András	61
+Bán András	Márkus András	70
+Bán András	Jeles András	64
+Bán András	Ernszt András	70
+Ódor Bence	Péter Bencze	64
+Ódor Bence	Horváth Bence	70
+Rózsa Péter	Bozsik Péter	70
+Rózsa Péter	Szalay Péter	70
+Rózsa Péter	Ruzsa Dénes	64
+Rózsa Péter	Szőke Péter	64
+Rózsa Péter	Ducsai Péter	70
+Rózsa Péter	Nádas Péter	64
+Rózsa Péter	Szűcs Péter	73
+dr. Rostás Péter	Mátyási Péter	62
+dr. Rostás Péter	Andráskó Péter	67
+dr. Rostás Péter	Korniss Péter	62
+dr. Rostás Péter	Forgács Péter	62
+Bódis Kriszta	Cseh Krisztina	67
+Bódis Kriszta	Dékei Kriszta	69
+Bódis Kriszta	Tyukodi Krisztina	67
+Bódis Kriszta	Sándor Krisztian	62
+Dr. Benedek Katalin	Keserü Katalin	61
+Ágas Zoltán	Szegedy-Maszák Zoltán	62
+Ágas Zoltán	Szarka Zoltán	67
+Ágas Zoltán	Somhegyi Zoltán	62
+Ágas Zoltán	Banner Zoltán	67
+Ágas Zoltán	Balla Zoltán	70
+Somhegyi Zoltán	Szegedy-Maszák Zoltán	61
+Somhegyi Zoltán	Ágas Zoltán	62
+Somhegyi Zoltán	Somhegyi Zoltán kritikus	77
+Varga György	Kozma György	67
+Varga György	Várkonyi György	67
+Varga György	Petz György	61
+Varga György	Varga Virág	70
+Bauer László	Rajk László	70
+Bauer László	BOD László	73
+Bauer László	Valuska László	69
+Koch Judit	Gál Judit	63
+Somhegyi Zoltán kritikus	Somhegyi Zoltán	77
+Zoltán Mária Flóra	Molnár Dóra	62
+Bolgár Eszter	Schall Eszter	62
+Bolgár Eszter	Nordin Eszter	69
+Bolgár Eszter	Deli Eszter	67
+Szalay Krisztina	Cseh Krisztina	67
+Szalay Krisztina	Tyukodi Krisztina	67
+Szalay Krisztina	Jerger Krisztina	62
+Szalay Krisztina	Volmuth Krisztián	61
+Szalay Krisztina	Sándor Krisztian	62
+Szalay Krisztina	Hunya Krisztina	71
+Szalay Krisztina	Mag Kriszti	67
+Dr. Szoboszlai János	Michal Kolecek / Szoboszlai János	64
+Nordin Eszter	LÁNG Eszter	67
+Nordin Eszter	Bolgár Eszter	69
+Nordin Eszter	Deli Eszter	67
+Nordin Eszter	Dizseri Eszter	67
+Illés István	Gulyás István	72
+Illés István	Nagy István	61
+Illés István	Halas István	75
+Kádár Béla	Pásztor Béla	64
+Stark István festőművész	Szabó Franciska festőművész	63
+Stark István festőművész	Nyilas Márta festőművész	62
+Stark István festőművész	Szotyory László festőművész	67
+Polák Péter költő	Závada Péter költő	74
+Zoboki Gábor	Zsámbéki Gábor	77
+Erzsébet	Király Erzsébet	70
+Erzsébet	VOJNICH Erzsébet	67
+Kerekasztalbeszélgetés és könyvbemutató	Kerekasztal-beszélgetés Birkás Ákossal	70
+Kalas Zsuzsanna	Büki Zsuzsanna	69
+Kalas Zsuzsanna	Aranyosi Zsuzsánna	67
+Kalas Zsuzsanna	Kóródi Zsuzsanna	71
+Kalas Zsuzsanna	Bakonyi Zsuzsanna	69
+Kalas Zsuzsanna	LŐRINCZ Zsuzsanna	62
+Kalas Zsuzsanna	Szablyár Zsuzsanna	73
+Kalas Zsuzsanna	Udvarhelyi Zsuzsanna	69
+Kalas Zsuzsanna	Kertész Zsuzsanna	75
+Kalas Zsuzsanna	Karl Fruzsina	64
+Kalas Zsuzsanna	Kerekes Zsuzsa	62
+fotográfus	Fotográfusok	82
+fotográfus	Drégely Imre fotográfus	61
+fotográfus	Nagy Zopán fotográfus	65
+Csuday Gábor	Pusztai Gábor	64
+Csuday Gábor	Hushegyi Gábor	62
+Jakovits József	Csató József	67
+Winkler Barnabás	Lenkovics Barnabás	65
+Orosz Csaba	Dezső Csaba	64
+Orosz Csaba	Fürjesi Csaba	67
+Orosz Csaba	Krisztik Csaba	72
+Pecsenke József	Benes József	74
+Prof. Somorjai-Kiss Tibor	Dr. Somorjai-Kiss Tibor	92
+Kroó András	Bernát András	67
+Kroó András	Bán András	67
+Kroó András	Kerékgyártó András	69
+Kroó András	Márkus András	67
+Kroó András	Jeles András	61
+Kroó András	Ernszt András	67
+Várkonyi György	Kemény György	64
+Várkonyi György	Varga György	67
+Arnold Skolnick	Bruno Tolic	62
+Novák Flóra	Vági Flóra	67
+Derenycsényi István	Drabik István	62
+Rófusz Ferenc	Koleszár Ferenc	64
+Rófusz Ferenc	Eln Ferenc	61
+Barcza Zsolt	Szarka Zoltán	64
+Barcza Zsolt	Halmi Zsolt	61
+Barcza Zsolt	Banner Zoltán	64
+Barcza Zsolt	Balla Zoltán	67
+Rácmolnár Milán	Rácmolnár Sándor	77
+Valuska László	Rajk László	72
+Valuska László	Bauer László	69
+Valuska László	Tolcsvay László	69
+Dankó Bernadett	Grászli Bernadett	62
+Dankó Bernadett	Jobbágy Bernadett	62
+Udvarhelyi Zsuzsanna	Büki Zsuzsanna	65
+Udvarhelyi Zsuzsanna	Aranyosi Zsuzsánna	63
+Udvarhelyi Zsuzsanna	Kóródi Zsuzsanna	67
+Udvarhelyi Zsuzsanna	Bakonyi Zsuzsanna	70
+Udvarhelyi Zsuzsanna	Szablyár Zsuzsanna	68
+Udvarhelyi Zsuzsanna	Kalas Zsuzsanna	69
+Réthey-Prikkel Tamás	Petrik Tamás	62
+Robert Bresson	Robert Florey	67
+Sinoros Szabó Katalin	Szil Katalin	61
+Szűcs Attila	Körösy Attila	64
+Szűcs Attila	Kleb Attila	61
+Szűcs Attila	Haid Attila	61
+Szűcs Attila	Szabó Attila DLA	64
+Szűcs Attila	Szűcs Péter	61
+Szűcs Attila	Rékasi Attila	64
+Szendrő Veronika	Szabó Veronika	73
+Malgorzata Goliszewska	Marta Moszczenska	67
+Tillmann J.A.	Tillmann József	71
+Szőnyei Tamás	Szigeti Tamás festő	62
+Szőnyei Tamás	Aknai Tamás	67
+Szőnyei Tamás	Aknai Tamás	67
+Szőnyei Tamás	Petrik Tamás	64
+Sinkovics Ede	Sipos Endre	67
+Sinkovics Ede	Sinkovits Péter	71
+Sinkovics Ede	Nunkovics Róbert	62
+Sinkovics Ede	Gyuris Róbert  Sinkovics Ede	63
+Németh Zsanett	Németh Anna	64
+Marta Moszczenska	Malgorzata Goliszewska	67
+Illés Zsófia Szonja -  / Collective Plant	Illés Zsófia Szonja	63
+Kemecsi Lajos	Kudelich Lajos	67
+Hajdú Zsófia	Ilosvai Zsófia	62
+Hajdú Zsófia	Imre Zsófia	61
+Hajdú Zsófia	ÁDÁM Zsófia	61
+Hajdú Zsófia	Hermann Zsófia	69
+Kerékgyártó András	Mengyán András	69
+Kerékgyártó András	Bernát András	71
+Kerékgyártó András	Kroó András	69
+Molnár Dóra	Zoltán Mária Flóra	62
+Molnár Dóra	Molnár Ani Galéria	62
+Andráskó Péter	Bozsik Péter	62
+Andráskó Péter	Nádas Péter	64
+Andráskó Péter	dr. Rostás Péter	67
+Andráskó Péter	Forgács Péter	67
+kiállítóek	kiállítás cseh	67
+Molnár Ani Galéria	Molnár Dóra	62
+Korniss Péter	Bozsik Péter	64
+Korniss Péter	Sinkovits Péter	64
+Korniss Péter	dr. Rostás Péter	62
+Korniss Péter	Szörényi Péter	67
+Korniss Péter	Forgács Péter	69
+Michal Kolecek / Szoboszlai János	Dr. Szoboszlai János	64
+Volmuth Krisztián	Cseh Krisztina	65
+Volmuth Krisztián	Szalay Krisztina	61
+Volmuth Krisztián	Sándor Krisztian	61
+Volmuth Krisztián	Hunya Krisztina	62
+Bukta Imre Munkácsy-díjas	Olajos György Munkácsy-díjas	68
+Bukta Imre Munkácsy-díjas	Munkácsy Mihály-díjas	61
+Horváth Csaba András	Bernát András	61
+Forián szabó Noémi	Fábián Noémi	67
+Forián szabó Noémi	Fórián Szabó Noémi	89
+Csoóry Tamás	Ilauszky Tamás	62
+Csoóry Tamás	Zádor Tamás.	67
+Fürjesi Csaba	Dezső Csaba	67
+Fürjesi Csaba	Orosz Csaba	67
+Fürjesi Csaba	Filp Csaba	70
+Fürjesi Csaba	Krisztik Csaba	67
+Gevicser Endre	Sipos Endre	64
+Fabényi Júlia	Kaposi Júlia	64
+A_D_A_B	_DAS_	67
+_DAS_	A_D_A_B	67
+Koleszár Ferenc	Rófusz Ferenc	64
+Koleszár Ferenc	Eln Ferenc	64
+Koleszár Ferenc	Cságoly Ferenc	62
+Ottományi Katalin	Szil Katalin	62
+Ottományi Katalin	Kovács Katalin	65
+PETŐCZ András	Bán András	61
+PETŐCZ András	Ernszt András	62
+Elina Aalto	Alvar Aalto	73
+Imola Balázs	Balázs	67
+Imola Balázs	Arató Balázs	67
+Imola Balázs	Lévai Balázs	67
+Ilauszky Tamás	Csoóry Tamás	62
+Eln Ferenc	Rófusz Ferenc	61
+Eln Ferenc	Koleszár Ferenc	64
+Eln Ferenc	Balkay Ferenc	70
+Eln Ferenc	Cságoly Ferenc	67
+Ilosvai Zsófia	Hajdú Zsófia	62
+Ilosvai Zsófia	Illés Zsófia Szonja	61
+Ilosvai Zsófia	Imre Zsófia	64
+Balázs Kata	Balázs	71
+Balázs Kata	Balázs Kitti	78
+Bíró József	Benes József	70
+Bíró József	Csató József	70
+Bíró József	Mélyi József	61
+Jakatics Szabó Veronika	Szabó Veronika	76
+Szabó Franciska festőművész	Stark István festőművész	63
+Szabó Franciska festőművész	Bikácsi Daniela festőművész	63
+Szabó Franciska festőművész	Nyilas Márta festőművész	63
+Bán Zsófia író	Márton Zsófia Eszter	65
+Kis Róka Csaba	Aknay Csaba	64
+Kis Róka Csaba	Krisztik Csaba	71
+Josef Bernhardt	Jobbágy Bernadett	62
+Dr. Kocsis László	Mészáros László	62
+Dr. Kocsis László	Tolcsvay László	62
+Deli Eszter	LÁNG Eszter	64
+Deli Eszter	Tóth Eszter	64
+Deli Eszter	Schall Eszter	67
+Deli Eszter	Bolgár Eszter	67
+Deli Eszter	Nordin Eszter	67
+Deli Eszter	Dizseri Eszter	80
+Agata Dudek	Agata Królak	61
+Boros Lili	Cseh Lili	63
+Boros Lili	Boros Luca	70
+Gerardo Nolasco Magana}	Gerardo Nolasco Magaña	93
+Petz György	Kozma György	70
+Petz György	Kepes György	70
+Petz György	Kemény György	67
+Petz György	Varga György	61
+Petz György	Jerovetz György	77
+Kertész Zsuzsanna	Büki Zsuzsanna	65
+Kertész Zsuzsanna	Aranyosi Zsuzsánna	63
+Kertész Zsuzsanna	Kóródi Zsuzsanna	73
+Kertész Zsuzsanna	Szablyár Zsuzsanna	63
+Kertész Zsuzsanna	Kalas Zsuzsanna	75
+Kertész Zsuzsanna	Kerekes Zsuzsa	71
+Michael Fanta	Schnabel Zita	62
+Hadik Gyula	Szabó Gyula	64
+Dizseri Eszter	Nordin Eszter	67
+Dizseri Eszter	Deli Eszter	80
+Árvai Mária	Petrás Mária	61
+Helene Romakin	Helena Tahir	62
+Gaál Tamás	Aknai Tamás	67
+Gaál Tamás	Aknai Tamás	67
+Gaál Tamás	Zádor Tamás.	64
+Horváth Bence	Ódor Bence	70
+Szabó Attila DLA	Szűcs Attila	64
+Zádor Tamás.	Csoóry Tamás	67
+Zádor Tamás.	Gaál Tamás	64
+Alerta	Apertura	71
+Lábass Endre	Sipos Endre	61
+Sándor Krisztian	Tyukodi Krisztina	61
+Sándor Krisztian	Jerger Krisztina	62
+Sándor Krisztian	Bódis Kriszta	62
+Sándor Krisztian	Szalay Krisztina	62
+Sándor Krisztian	Volmuth Krisztián	61
+Sándor Krisztian	Hunya Krisztina	65
+Berta Julianna	Pór Bertalan	62
+Bikácsi Daniela festőművész	Szabó Franciska festőművész	63
+Bikácsi Daniela festőművész	Nyilas Márta festőművész	63
+Herbert Anikó	Loránt Anikó	64
+Magyarország	Váradi Zita  Magyarország	65
+Szabó Veronika	Szendrő Veronika	73
+Szabó Veronika	Jakatics Szabó Veronika	76
+Szabó Veronika	Szabó Imola	64
+Márkus Adrienn	Márkus András	74
+Antje Schiffers	Antje Peters	67
+Follard Barbara	Dudás Barbara	64
+Agnieszka Piasecka	Agnieszka Jankowska-Marzec	64
+Nunkovics Róbert	Sinkovics Ede	62
+Nunkovics Róbert	Kristó Róbert	62
+Deák Nóra  ICA-D	Deák Nóra	72
+Lenkovics Barnabás	Winkler Barnabás	65
+Petrik Tamás	Aknai Tamás	61
+Petrik Tamás	Aknai Tamás	61
+Petrik Tamás	Réthey-Prikkel Tamás	62
+Petrik Tamás	Szőnyei Tamás	64
+Munkácsy Mihály-díjas	Bukta Imre Munkácsy-díjas	61
+Illés Zsófia Szonja	Illés Zsófia Szonja -  / Collective Plant	63
+Illés Zsófia Szonja	Ilosvai Zsófia	61
+Radics Márton	Dr. Radnai Márton	73
+Radics Márton	Dés Márton	70
+Radics Márton	Gresa Márton	64
+Agnieszka Jankowska-Marzec	Agnieszka Piasecka	64
+Szűcs Péter	Bozsik Péter	70
+Szűcs Péter	Szalay Péter	70
+Szűcs Péter	Szőke Péter	73
+Szűcs Péter	Ducsai Péter	70
+Szűcs Péter	Nádas Péter	64
+Szűcs Péter	Sinkovits Péter	62
+Szűcs Péter	Rózsa Péter	73
+Szűcs Péter	Szűcs Attila	61
+Szűcs Péter	Szörényi Péter	64
+Szűcs Péter	Forgács Péter	67
+Szűcs Péter	HALÁSZ Péter	61
+BARABÁS Márton	BARTHA Máté	64
+BARABÁS Márton	SZARVAS Márton	79
+Kovács Brigitta	Kovács Katalin	62
+Csató József	Benes József	67
+Csató József	Jakovits József	67
+Csató József	Bíró József	70
+Pálfi Szabolcs	KsPál Szabolcs	86
+Pálfi Szabolcs	Barakonyi Szabolcs	62
+Márkus András	Mengyán András	67
+Márkus András	Bernát András	62
+Márkus András	Bödecs András	62
+Márkus András	Bán András	70
+Márkus András	Kroó András	67
+Márkus András	Márkus Adrienn	74
+Márkus András	Jeles András	64
+Márkus András	Ernszt András	69
+Márkus András	Márkus	63
+Gál Judit	Nagy Judit	63
+Gál Judit	Koch Judit	63
+Gál Judit	Jóry Judit	63
+Gál Judit	Sebő Judit	63
+Nagy Karolina	Nagy Anna	64
+Buczkó Imre	BAK Imre	63
+Loránt Anikó	Herbert Anikó	64
+Keserü Katalin	Dr. Benedek Katalin	61
+Keserü Katalin	Szil Katalin	62
+Keserü Katalin	Keserű Ilona	62
+Keserü Katalin	Kovács Katalin	71
+Szil Katalin	Sinoros Szabó Katalin	61
+Szil Katalin	Ottományi Katalin	62
+Szil Katalin	Keserü Katalin	62
+Szil Katalin	Kovács Katalin	62
+KsPál Szabolcs	Pálfi Szabolcs	86
+IndiGo Csoport	PR Csoport	67
+Szörényi László	Szörényi Péter	62
+Szörényi László	dr. Lengyel László	61
+Gulyás István	Illés István	72
+Gulyás István	Nagy István	67
+Gulyás István	Halas István	72
+Balázs Kitti	Balázs	67
+Balázs Kitti	Mayer Kitti	61
+Balázs Kitti	Balázs Kata	78
+Nagy István	Harasztÿ István	62
+Nagy István	Drabik István	67
+Nagy István	Illés István	61
+Nagy István	Gulyás István	67
+Nagy István	Halas István	70
+Apertura	Alerta	71
+Zsenia Bozukova	Zhenia Bozukova	93
+NAGY Tibor	Nádor Tibor	67
+SZARVAS Márton	BARABÁS Márton	79
+Fórián Szabó Noémi	Fábián Noémi	67
+Fórián Szabó Noémi	Forián szabó Noémi	89
+Hunya Krisztina	Dr. Ungváry Krisztián	61
+Hunya Krisztina	Cseh Krisztina	69
+Hunya Krisztina	Tyukodi Krisztina	69
+Hunya Krisztina	Jerger Krisztina	65
+Hunya Krisztina	Szalay Krisztina	71
+Hunya Krisztina	Volmuth Krisztián	62
+Hunya Krisztina	Sándor Krisztian	65
+Hunya Krisztina	Mag Kriszti	69
+Jóry Judit	Nagy Judit	70
+Jóry Judit	Gál Judit	63
+Imre Zsófia	Bérczi Zsófia	67
+Imre Zsófia	Hajdú Zsófia	61
+Imre Zsófia	Ilosvai Zsófia	64
+Imre Zsófia	ÁDÁM Zsófia	64
+Imre Zsófia	Hermann Zsófia	64
+Nyilas Márta festőművész	Stark István festőművész	62
+Nyilas Márta festőművész	Szabó Franciska festőművész	63
+Nyilas Márta festőművész	Bikácsi Daniela festőművész	63
+Vági Flóra	Pertics Flóra	61
+Vági Flóra	Novák Flóra	67
+Helena Tahir	Helene Romakin	62
+Urbán Orsolya	Drozdik Orsolya	64
+Urbán Orsolya	URBÁN Orsolya	69
+Solti Gizella	Szántói Lilla	62
+Balla Enikő	Róka Enikő	67
+Balla Enikő	Zalatnay Enikő	72
+Balla Enikő	Balla Zoltán	61
+Keserű Ilona	Ilona Keserü Ilona	73
+Keserű Ilona	Keserü Katalin	62
+Kaposi Júlia	Vajda Júlia	61
+Kaposi Júlia	Fabényi Júlia	64
+Kaposi Júlia	Kaposi Dorka	67
+Szörényi Péter	Bozsik Péter	62
+Szörényi Péter	Szalay Péter	69
+Szörényi Péter	Szőke Péter	64
+Szörényi Péter	Sinkovits Péter	62
+Szörényi Péter	Korniss Péter	67
+Szörényi Péter	Szűcs Péter	64
+Szörényi Péter	Szörényi László	62
+Szörényi Péter	Párkányi Raab Péter	61
+Kovács Katalin	Kovács Lehel	62
+Kovács Katalin	Ottományi Katalin	65
+Kovács Katalin	Kovács Brigitta	62
+Kovács Katalin	Keserü Katalin	71
+Kovács Katalin	Szil Katalin	62
+Kovács Katalin	Kovács Johanna	64
+Szabó Imola	Szabó ÍÁdám	64
+Szabó Imola	Szabó Gyula	73
+Szabó Imola	Szabó Imola Julianna	71
+Szabó Imola	Szabó Veronika	64
+Szabó Imola	Dr. Szabó Lilla	62
+Zalatnay Enikő	Balla Enikő	72
+Dr. Komjáthy Attila	Király Attila	62
+Hushegyi Gábor	Pusztai Gábor	67
+Hushegyi Gábor	Csuday Gábor	62
+Király Attila	Körösy Attila	77
+Király Attila	Tordai Attila	62
+Király Attila	Kleb Attila	75
+Király Attila	Haid Attila	67
+Király Attila	Dr. Komjáthy Attila	62
+Király Attila	Rékasi Attila	62
+ÁDÁM Zsófia	Hajdú Zsófia	61
+ÁDÁM Zsófia	Imre Zsófia	64
+Holesch Dénes	Miklósi Dénes	62
+Márton Zsófia Eszter	Bán Zsófia író	65
+Gyuris Róbert  Sinkovics Ede	Sinkovics Ede	63
+Banner Zoltán	Szarka Zoltán	69
+Banner Zoltán	Ágas Zoltán	67
+Banner Zoltán	Barcza Zsolt	64
+Banner Zoltán	Balla Zoltán	72
+Balkay Ferenc	Eln Ferenc	70
+Balkay Ferenc	Cságoly Ferenc	67
+Matos Gergely	Gajárszki Gergely	67
+Matos Gergely	Huth Gergely	72
+Matos Gergely	Kovách Gergely	67
+Jerovetz György	Kozma György	67
+Jerovetz György	Kepes György	67
+Jerovetz György	Petz György	77
+Barakonyi Szabolcs	Pálfi Szabolcs	62
+Barakonyi Szabolcs	Barakonyi Klára	67
+Rácmolnár Sándor	Dobány Sándor	62
+Rácmolnár Sándor	Rácmolnár Milán	77
+Bruno Tolic	Arnold Skolnick	62
+Barakonyi Klára	Barakonyi Szabolcs	67
+Mélyi József	Mélyi József műkritikus	69
+Mélyi József	Bíró József	61
+Nagy Anna	Nagy Karolina	64
+Nagy Anna	Nagy T	67
+Forgács Péter	Bozsik Péter	64
+Forgács Péter	Mátyási Péter	62
+Forgács Péter	Gerőcs Péter író	62
+Forgács Péter	Ducsai Péter	64
+Forgács Péter	Nádas Péter	67
+Forgács Péter	dr. Rostás Péter	62
+Forgács Péter	Andráskó Péter	67
+Forgács Péter	Korniss Péter	69
+Forgács Péter	Szűcs Péter	67
+Mag Kriszti	Cseh Krisztina	64
+Mag Kriszti	Mayer Kitti	64
+Mag Kriszti	Jerger Krisztina	67
+Mag Kriszti	Szalay Krisztina	67
+Mag Kriszti	Hunya Krisztina	69
+Jeles András	Mengyán András	62
+Jeles András	Bernát András	64
+Jeles András	Bödecs András	72
+Jeles András	Bán András	64
+Jeles András	Kroó András	61
+Jeles András	Márkus András	64
+Jeles András	Ernszt András	64
+Kert csoport	3csoport	70
+Kert csoport	PR Csoport	64
+Dulai Sándor	Dobány Sándor	64
+Szántói Lilla	Szántó Dániel	69
+Szántói Lilla	Solti Gizella	62
+Szántói Lilla	Dr. Szabó Lilla	64
+Kristó Róbert	Farkash Róbert	67
+Kristó Róbert	Nunkovics Róbert	62
+Kaposi Dorka	Kaposi Júlia	67
+Dés Márton	Radics Márton	70
+Dés Márton	Gresa Márton	73
+HALÁSZ Péter	Szőke Péter	61
+HALÁSZ Péter	GALLOV Péter	67
+HALÁSZ Péter	Szűcs Péter	61
+Cságoly Ferenc	Koleszár Ferenc	62
+Cságoly Ferenc	Eln Ferenc	67
+Cságoly Ferenc	Balkay Ferenc	67
+Dudás Barbara	NYIRI Barbara	62
+Dudás Barbara	Follard Barbara	64
+Oláh Mátyás László	Mészáros László	61
+Szotyory László festőművész	Stark István festőművész	67
+URBÁN Orsolya	Urbán Orsolya	69
+Pusztai Pál	Pusztai Gábor	75
+Tolcsvay László	Rajk László	62
+Tolcsvay László	Valuska László	69
+Tolcsvay László	Dr. Kocsis László	62
+dr. Lengyel László	Szörényi László	61
+Gresa Márton	Dr. Radnai Márton	62
+Gresa Márton	Radics Márton	64
+Gresa Márton	Dés Márton	73
+Filp Csaba	Filipa César	73
+Filp Csaba	Fürjesi Csaba	70
+Richter Sára	Fischer Éva	61
+Antje Peters	Antje Schiffers	67
+Jobbágy Bernadett	Grászli Bernadett	65
+Jobbágy Bernadett	Dankó Bernadett	62
+Jobbágy Bernadett	Josef Bernhardt	62
+Robert Florey	Robert Bresson	67
+Gerardo Nolasco Magaña	Gerardo Nolasco Magana}	93
+Schnabel Zita	Michael Fanta	62
+Nádor Tibor	NAGY Tibor	67
+Karl Fruzsina	Kalas Zsuzsanna	64
+Nagy T	Jay TAN	62
+Nagy T	Nagy Judit	62
+Nagy T	Nagy Anna	67
+Borbély Mihály	Sárkány Mihály	64
+Kalmár János	Kemtty János	67
+PR Csoport	3csoport	67
+PR Csoport	IndiGo Csoport	67
+PR Csoport	Kert csoport	64
+Halas István	Harasztÿ István	81
+Halas István	Drabik István	64
+Halas István	Illés István	75
+Halas István	Gulyás István	72
+Halas István	Nagy István	70
+Korányi Mátyás	Nádassy Mátyás	64
+Kerekes Zsuzsa	Kalas Zsuzsanna	62
+Kerekes Zsuzsa	Kertész Zsuzsanna	71
+kiállítás cseh	kiállítóek	67
+Ernszt András	Bernát András	77
+Ernszt András	Bödecs András	62
+Ernszt András	Bán András	70
+Ernszt András	Kroó András	67
+Ernszt András	PETŐCZ András	62
+Ernszt András	Márkus András	69
+Ernszt András	Jeles András	64
+Rékasi Attila	Körösy Attila	62
+Rékasi Attila	Tordai Attila	69
+Rékasi Attila	Haid Attila	75
+Rékasi Attila	Szűcs Attila	64
+Rékasi Attila	Király Attila	62
+Puskás Márta	Petrás Mária	67
+Sebő Judit	Gál Judit	63
+Párkányi Raab Péter	Szörényi Péter	61
+Márkus	Márkus András	63
+Kovács Johanna	Kovács Lehel	62
+Kovács Johanna	Kovács Katalin	64
+Petrás Mária	Árvai Mária	61
+Petrás Mária	Puskás Márta	67
+Varga Virág	Varga György	70
+Závada Péter költő	Nádas Péter	62
+Závada Péter költő	Polák Péter költő	74
+Krisztik Csaba	Orosz Csaba	72
+Krisztik Csaba	Fürjesi Csaba	67
+Krisztik Csaba	Kis Róka Csaba	71
+Hermann Zsófia	Hermann Ildi	69
+Hermann Zsófia	Tettamanti Zsófia	71
+Hermann Zsófia	Hajdú Zsófia	69
+Hermann Zsófia	Imre Zsófia	64
+Balla Zoltán	Szarka Zoltán	72
+Balla Zoltán	Halmi Zsolt	61
+Balla Zoltán	Ágas Zoltán	70
+Balla Zoltán	Barcza Zsolt	67
+Balla Zoltán	Balla Enikő	61
+Balla Zoltán	Banner Zoltán	72
+Dr. Szabó Lilla	Szabó Gyula	62
+Dr. Szabó Lilla	Szabó Imola	62
+Dr. Szabó Lilla	Szántói Lilla	64
