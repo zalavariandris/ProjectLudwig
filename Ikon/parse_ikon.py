@@ -65,19 +65,9 @@ def parse_page(page):
 
     return data
 
-def write_excel(df, filepath):
-    ## Export to excel
-    df2 = df.copy()
-    for i in range(len(df['artists'])):
-        # convert artists list to semicolon seperated string
-        df2.loc[i, 'artists'] = "; ".join([a.replace(";", ",") for a in df.loc[i, 'artists']])        
-    df2.to_excel("ikon.xlsx")
-    
-def write_sql(df, filepath):
-    raise NotImplementedError
 
 if __name__=="__main__":
-    ## Collect data from html files
+    #%% Collect data from html files
     data = [] 
     all_files = list(get_filepaths_on_disk("./tmp"))
     print("parsing {} html pages...".format(len(all_files)))
@@ -89,13 +79,23 @@ if __name__=="__main__":
             print("  found {} exhibitions".format(len(page_data)))
             data += page_data
     
-    ## Create dataframe
+    #%% Create dataframe
     df = pd.DataFrame(data)
     for i in range(len(df['artists'])):
         # clean artists array from falsy values
         df.loc[i, 'artists']= [a.strip() for a in df.loc[i, 'artists'] if a.strip()]
     
-    write_excel(df, "ikon.xlsx")
-    # write_sql(df, "ikon.sql")
+    #%% replace semicolons        
+    for idx, row in df.iterrows():
+        if any(";" in a for a in row['artists']):
+            print(idx, list(a for a in row['artists'] if ";" in a))
+            row['artists'] = [a.replace(";", ",") for a in row['artists']]
+
+    #%% Export to excel
+    df2 = df.copy()
+    for i in range(len(df['artists'])):
+        # convert artists list to semicolon seperated string
+        df2.loc[i, 'artists'] = "; ".join([a for a in df.loc[i, 'artists']])        
+    df2.to_excel("ikon.xlsx")
     
     
