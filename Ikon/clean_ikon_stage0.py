@@ -7,8 +7,8 @@ Created on Tue Jan 14 08:05:12 2020
 
 import pandas as pd
 
-
-df = pd.read_excel("ikon.xlsx", index_col=0)
+#%% read excel
+df = pd.read_excel("ikon.xlsx", index_col=0, keep_default_na=False)
 
 #%% Drop duplicate exhibitions
 """
@@ -24,3 +24,19 @@ i.e.:
 """
 duplicates = df[df.duplicated(subset=['title', 'date', 'gallery', 'artists'], keep=False)]
 df.drop_duplicates(subset=['title', 'date', 'gallery', 'artists'], keep='first')
+
+#%% remove dash '-' artists
+def print_dashes(df):
+    for idx, row in df.iterrows():
+        if any( "-" == a for a in row['artists'].split("; ") ):
+            print(row['artists'])
+            
+for idx, row in df.iterrows():
+    artists = row['artists'].split("; ")
+    artists = [a for a in artists if a != "-"]
+    df.loc[idx, 'artists'] = "; ".join(artists)
+    
+df2.to_excel("ikon.xlsx")
+    
+
+        
