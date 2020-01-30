@@ -24,27 +24,14 @@ def chunkIt(seq, num):
 
     
 
-def compare_names(name1, name2, filename):
-    
 
-    fuzzy = fuzz.ratio(name1, name2)
-
-    if fuzzy > 64:
-        fout = open(filename, 'a')
-        #fout.write(name1 + '\t' + name2 + '\t' + str(jacc) + '\t' + str(whos) + '\t' + str(fuzzy) + '\n')
-        fout.write(name1 + '\t' + name2 + '\t' + str(fuzzy) + '\n')
-        fout.close()
+def compare_lists(names_l, num_thread, num_threads):
 
 
-
-def compare_lists(names_l, num_thread, num_threads,all_names_scores):
-
-
-
-    fout = open(foldout + '/artist_names_matched_' + str(num_thread) + '.dat', 'w')
-    fout.write('name1\tname2\tsimilarity\n')
    
     nnn = len(names_l)
+
+    all_names_scores = {}
 
 
     for ind, n1 in enumerate(names_l):
@@ -63,21 +50,19 @@ def compare_lists(names_l, num_thread, num_threads,all_names_scores):
                 all_names_scores[n1].append(fuzzy)
                 all_names_scores[n2].append(fuzzy)
 
-                if fuzzy > 40:
-                    fout.write(n1 + '\t' + n2 + '\t' + str(fuzzy) + '\n')
 
+    fout = open('similarities/names_scores_' + str(num_thread) + '.dat', 'w')
+    for name, scores in all_names_scores.items():
+        fout.write(name + '\t\t' + '\t'.join([str(s) for s in scores]) + '\n')
     fout.close()
 
 
 
-
-
-all_names = [line.strip().split('\t')[0] for line in open('extracted/all_names_precleaned.dat')]
-
+all_names = list(set([line.strip().split('\t')[1] for line in open('cleaning_steps/step6.csv')]))
 print(len(all_names))
 
 
-foldout = 'name_matching'
+foldout = 'similarities'
 if not os.path.exists(foldout):
     os.makedirs(foldout)
 
@@ -87,15 +72,39 @@ num_threads = 50
 name_chunks = chunkIt(all_names, num_threads)
 Pros        = []
 
-all_names_scores = {}
+
 
 for ind, chunk in enumerate(name_chunks):
-    p = Process(target = compare_lists, args=(chunk, ind, num_threads,all_names_scores,))
+    p = Process(target = compare_lists, args=(chunk, ind, num_threads,))
     Pros.append(p)
     p.start()
    
 for t in Pros:
     t.join()
+
+
+all_names_scores = {}
+fout  = open('similarities/COMBINED_scores.dat', 'w')
+files = [f for f in  os.listdir('similarities') if 'COMBINED' not in f]
+
+for fn in files:
+    for line in open('similarities/' + fn):
+        name, scores = line.strip().split('\t\t')
+        scores = [int(s) for s in scores.split('\t')]
+
+        if name not in all_names_scores:
+            all_names_scores[name] = []
+        all_names_scores[name] += scores 
+
+
+
+for n, s in all_names_scores.items():
+    fout.write(n +  '\t\t' + '\t'.join([str(_) for _ in  sorted(s, reverse = True)[0:50]]) + '\n')
+fout.close()
+
+
+
+
 
 
 
